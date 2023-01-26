@@ -1,0 +1,85 @@
+body {
+    background-color: #011F3F;
+    font-family: cursive;
+}
+
+h5 {
+    color: #FEF2BF;
+    text-align: left;
+    margin-left: 25px;
+    text-shadow: 2px 0 grey;
+}
+
+.calculator {
+    background-color: #393E46;
+    width: 500px;
+    height: 650px;
+    margin: 65px 350px;
+    text-align: center;
+    border-radius: 5%;
+    padding-top: 10px;
+    box-shadow: 5px 5px 10px black;
+    position: absolute;
+}
+
+.screen {
+    background-color: grey;
+    width: 450px;
+    height: 120px;
+    margin: 0 auto 25px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 10px black;
+}
+
+.text {
+    color: #FEF2BF;
+    text-align:end;
+    padding-top: 80px;
+    padding-right: 10px;
+    font-size: 1.5rem;
+    text-shadow: 2px 0 #232931;
+}
+
+button {
+    width: 109px;
+    height: 80px;
+    border-radius: 3px;
+    margin: 3px 0;
+    background-color: grey;
+    border: none;
+    color: #FEF2BF;
+    font-size: 1.5rem;
+    text-shadow: 2px 0 #232931;
+    box-shadow: 3px 3px 10px black;
+}
+
+.pressed {
+    background-color: #232931;
+}
+
+.history {
+    background-color: #232931;
+    width:500px;
+    height:789px;
+    margin: 0 0 0 1100px;
+    
+}
+
+.history h3 {
+    color: #FEF2BF;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.equation {
+    color: #FEF2BF;
+    text-align: right;
+    margin: 0 20px 0 0;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #FEF2BF;
+    text-align: right;
+    margin-right: 20px;
+}
